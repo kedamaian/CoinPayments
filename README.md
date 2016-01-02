@@ -4,7 +4,7 @@ A PHP implementation of CoinPayments API wrapped up into a simple to use class.
 
 
 #Introduction#
-This is a two file class with simplisity at its core. I wanted to create a simple to use IPN that works with both paypal and bitcoin, because they are the most requested payment systems. Before you continue reading this, you should head over to https://www.coinpayments.net/merchant-tools-ipn#setup and make sure your account is ready to use with thew IPN. You do not need to setup a IPN url on coinpayments, you can do it in the code. 
+This is a two file class with simplicity at its core. I wanted to create a simple to use IPN that works with both paypal and bitcoin, because they are the most requested payment systems. Before you continue reading this, you should head over to https://www.coinpayments.net/merchant-tools-ipn#setup and make sure your account is ready to use with thew IPN. You do not need to setup a IPN url on coinpayments, you can do it in the code. 
 
 #How to Use#
 
